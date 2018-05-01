@@ -1,6 +1,0 @@
-Citerezene          101                 150                 tablet              10                  15-04-2017          15-04-2019          cold                
-Digene              102                 200                 tablet              10                  16-05-2017          22-08-2019          acidity             
-Disprin             103                 60                  tablet              10                  16-08-2017          25-09-2020          headache            
-Combiflame          104                 150                 tablet              10                  24-06-2017          24-06-2018          bodypain            
-Amlodipin           105                 100                 tablet              10                  12-06-2016          25-12-2019          Blood               
-Saridon             110                 200                 syrup               200ml               30-12-2016          12-07-2018          Cough               
